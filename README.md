@@ -15,11 +15,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" /></p>  
 
+<img src="https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif" alt="Image" height="80" width="100" >
 
- ![0708ed06079e2d0ae6438e5902487d6908d9e79a_hq](https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif)
+<img src="https://user-images.githubusercontent.com/80757612/219874286-ee42726c-9e48-4ec4-83b8-b18d7d7f6b59.png" alt="Image" height="80" width="100">
 
-<iframe src="https://giphy.com/embed/f6JM8ZpsCMRt6" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nomnom-f6JM8ZpsCMRt6">via GIPHY</a></p>
-
-![octocat-1676734017126](https://user-images.githubusercontent.com/80757612/219874286-ee42726c-9e48-4ec4-83b8-b18d7d7f6b59.png)
-
-![giphy](https://user-images.githubusercontent.com/80757612/219875075-a28e4d4b-4b16-4838-a55d-d20bdd40da29.gif)
+<img src="https://user-images.githubusercontent.com/80757612/219874286-ee42726c-9e48-4ec4-83b8-b18d7d7f6b59.png" alt="Image" height="80" width="100">
