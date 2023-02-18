@@ -18,18 +18,20 @@
 
 
 
-<p align="left"> 
+<p>
 <img align="top" src="https://komarev.com/ghpvc/?username=gabriel-pivoto&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-pivoto" /> </p>
 
-<div align="center">
 
-<p>&nbsp;<img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" width="70%" /></p>
+<div style="display: flex;justify-content: space-between; align-items: center;"><img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
 
-<p><img align="center" class="filler" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&locale=en&theme=dark&count_private=true" alt="gabriel-pivoto" width="70%" /></p>
 
-<p><img align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="70%" /></p>  
+<img align="center" class="filler" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&locale=en&theme=dark&count_private=true" alt="gabriel-pivoto"  /></div>
 
-</div>
+
+
+<p><img align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
+
+
 
 <img src="https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif" alt="Image" height="80" width="100" >
 
