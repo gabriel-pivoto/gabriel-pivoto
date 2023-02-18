@@ -19,4 +19,4 @@
 
 <img src="https://user-images.githubusercontent.com/80757612/219874286-ee42726c-9e48-4ec4-83b8-b18d7d7f6b59.png" alt="Image" height="80" width="100">
 
-<img src="https://giphy.com/embed/f6JM8ZpsCMRt6" alt="Image" height="80" width="100">
+<img src="https://user-images.githubusercontent.com/80757612/219874965-062cb734-3a6f-4b49-92af-67c2f53f9626.gif" alt="Image" height="80" width="100">
