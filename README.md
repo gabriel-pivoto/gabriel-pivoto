@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     .alinhados{
         justify-content: center;
         text-align:center;
@@ -7,7 +7,7 @@
     .filler{
         width: 100%;
     }
-</style>
+</style> -->
 <h1 align="center">Hi 👋, I'm Gabriel Pivoto</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-pivoto-252027227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,13 +21,13 @@
 <p align="left"> 
 <img align="top" src="https://komarev.com/ghpvc/?username=gabriel-pivoto&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-pivoto" /> </p>
 
-<div class="alinhados">
+<div align="center">
 
-<p>&nbsp;<img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" /></p>
+<p>&nbsp;<img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" width="100%" /></p>
 
-<p><img align="center" class="filler" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&locale=en&theme=dark&count_private=true" alt="gabriel-pivoto" /></p>
+<p><img align="center" class="filler" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&locale=en&theme=dark&count_private=true" alt="gabriel-pivoto" width="100%" /></p>
 
-<p><img align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" /></p>  
+<p><img align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" /></p>  
 
 </div>
 
