@@ -19,7 +19,5 @@
  ![0708ed06079e2d0ae6438e5902487d6908d9e79a_hq](https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif)
  
 
- ![Snake animation](https://github.com/gabriel-pivoto/gabriel-pivoto/blob/output/github-contribution-grid-snake.svg)
 
-
-
+![octocat-1676734017126](https://user-images.githubusercontent.com/80757612/219874286-ee42726c-9e48-4ec4-83b8-b18d7d7f6b59.png)
