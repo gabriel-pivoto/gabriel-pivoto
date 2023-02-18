@@ -15,7 +15,7 @@
 
 
 
-<p><img  width="100% " height="20%" align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
+<p><img  width="100% " height="80" align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
 
 
 <div align="center" style = "display: flex; justify-content: space-between; align-items: center;" >
