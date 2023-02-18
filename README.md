@@ -6,18 +6,16 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
-<div class="row">
-<div class="col-md-6">
- <img  style="width: 100%; height: auto;" 
- src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img style="width: 100%; height: auto;"
+
+<div style="display: flex;">
+ <img  style="width: 50%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img style="width: 50%; height: 200px; object-fit: contain;"
   src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
 </div>
-</div>
 
 
 
-<p><img  width="70% " height="50%" align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
+<p><img  width="100% " height="20%" align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
 
 
 <div align="center" style = "display: flex; justify-content: space-between; align-items: center;" >
