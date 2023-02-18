@@ -7,9 +7,9 @@
 </p>
 
 
-<div align="center" style = "justify-content: center">
- <img  width="70% " height="50%" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img width="70% " height="50%" align="center"
+<div style="display: flex;">
+ <img  style="width: 50%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img style="width: 50%; height: 200px; object-fit: contain;"
   src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
 </div>
 
