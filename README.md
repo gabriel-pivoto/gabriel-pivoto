@@ -18,10 +18,6 @@
 </div>
 
 
-  
-
-![Snake animation](https://github.com/gabriel-pivoto/gabriel-pivoto/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center" style = "display: flex; justify-content: space-between; align-items: center;" >
 <img src="https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif" alt="Image" height="80" width="100" >
 <img src="https://user-images.githubusercontent.com/80757612/219874965-062cb734-3a6f-4b49-92af-67c2f53f9626.gif" alt="Image" height="80" width="100">
