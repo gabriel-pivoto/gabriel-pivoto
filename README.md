@@ -27,10 +27,10 @@
 <p><img  width="80% " height="50%" align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
 
 
-
+<div align="center" style = "display: flex; justify-content: space-between; align-items: center;" >
 <img src="https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif" alt="Image" height="80" width="100" >
-
+<img src="https://user-images.githubusercontent.com/80757612/219874965-062cb734-3a6f-4b49-92af-67c2f53f9626.gif" alt="Image" height="80" width="100">
 <img src="https://user-images.githubusercontent.com/80757612/219874286-ee42726c-9e48-4ec4-83b8-b18d7d7f6b59.png" alt="Image" height="80" width="100">
 
-<img src="https://user-images.githubusercontent.com/80757612/219874965-062cb734-3a6f-4b49-92af-67c2f53f9626.gif" alt="Image" height="80" width="100">
 
+</div>
