@@ -18,13 +18,13 @@
 
 
 <div align="center" style = "justify-content: center">
- <img  src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
+ <img  width="70% " height="50%" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img width="70% " height="50%" align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
 </div>
 
 
 
-<p><img align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
+<p><img  width="80% " height="50%" align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
 
 
 
