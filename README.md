@@ -7,16 +7,14 @@
 </p>
 
 
-<div style="display: flex;">
- <img  style="width: 50%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img style="width: 50%; height: 200px; object-fit: contain;"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
+<div align="center">
+  <a href="https://github.com/gabriel-pivoto">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-pivoto&layout=compact&langs_count=7&theme=prussian"/>
 </div>
+  
 
-
-
-<p><img  width="100% " height="80" align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
-
+![Snake animation](https://github.com/gabriel-pivoto/gabriel-pivoto/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" style = "display: flex; justify-content: space-between; align-items: center;" >
 <img src="https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif" alt="Image" height="80" width="100" >
