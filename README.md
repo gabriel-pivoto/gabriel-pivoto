@@ -17,8 +17,8 @@
 </p>
 
 
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center" style = "justify-content: center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
 </div>
 
