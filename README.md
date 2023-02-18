@@ -17,16 +17,11 @@
 </p>
 
 
-
-<p>
-<img align="top" src="https://komarev.com/ghpvc/?username=gabriel-pivoto&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-pivoto" /> </p>
-
-
 <div align="center">
-  <a href="https://github.com/joaoalmeida010280">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-pivoto&layout=compact&langs_count=7&theme=merko"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-pivoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img align="center" class="filler" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-pivoto&theme=dark" alt="gabriel-pivoto" >
 </div>
+
 
 
 <p><img align="center" class="filler"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pivoto&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-pivoto" width="100%" heigh="50%" /></p>  
