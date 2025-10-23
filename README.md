@@ -2,18 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Gabriel+Pivoto+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🎓 Software Engineering student at INATEL, passionate about solving problems with data and AI.
-🤖 Currently focused on Machine Learning, exploring model training, data analysis, and real-world applications.
-💻 I enjoy building intelligent systems, experimenting with neural networks, and automating things with code.
-📚 Always learning, sharing, and improving.
+🎓 Software Engineering student at INATEL, passionate about solving problems with data and AI. <br>
+🤖 Currently focused on Machine Learning, exploring model training, data analysis, and real-world applications.<br>
+💻 I enjoy building intelligent systems, experimenting with neural networks, and automating things with code.<br>
+📚 Always learning, sharing, and improving.<br>
 
 🧠 Tech Stack
 
-Languages: Python, TypeScript
-ML & Data: scikit-learn, TensorFlow, pandas, NumPy
-Backend: Node.js, Fastify, PostgreSQL, Prisma
-Tools: Docker, GitHub Actions, VS Code, Jupyter
-
+Languages: Python, TypeScript<br>
+ML & Data: scikit-learn, TensorFlow, pandas, NumPy<br>
+Backend: Node.js, Fastify, PostgreSQL, Prisma<br>
+Tools: Docker, GitHub Actions, VS Code, Jupyter<br>
 
 **⚙️ GitHub Analytics**
 
